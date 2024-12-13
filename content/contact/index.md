@@ -5,6 +5,9 @@ path = "contact"
 
 # Contact Me
 
+<img src="/files/mailbox.png#full-bleed" alt="Alt text" full_bleed = true style="display:block;">
+
+
 I'd love to hear from you! Please reach me through the following:
 
 - **Email**: [dak267@cornell.edu](mailto:dak267@cornell.edu)
