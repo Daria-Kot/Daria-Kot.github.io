@@ -22,15 +22,24 @@
         <loc>https://daria-kot.github.io/tags/</loc>
     </url>
     <url>
+        <loc>https://daria-kot.github.io/tags/c/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/tags/embedded-software/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/tags/microcontroller/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/tags/pid-controller/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/tags/robotics/</loc>
+    </url>
+    <url>
         <loc>https://daria-kot.github.io/tags/skill-1/</loc>
     </url>
     <url>
         <loc>https://daria-kot.github.io/tags/skill-2/</loc>
-    </url>
-    <url>
-        <loc>https://daria-kot.github.io/tags/skill-4/</loc>
-    </url>
-    <url>
-        <loc>https://daria-kot.github.io/tags/skill-5/</loc>
     </url>
 </urlset>
