@@ -7,4 +7,4 @@ page_template = "article.html"
 
 +++
 
-Welcome to my project blog.
+Welcome to my portfolio!

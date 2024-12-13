@@ -55,12 +55,14 @@ show_backlinks = true
 [extra.nav]
 show_feed = false
 show_theme_switcher = true
-links = [ {name = "Projects", menu = [
-	{url = "@/projects/project1/index.md", name = "Project #1"},
-	{url = "@/projects/project2/index.md", name = "Project #2"},
+links = [ 
+	#{name = "Projects", 
+	#menu = [
+	#{url = "@/projects/project1/index.md", name = "Project #1"},
+	#{url = "@/projects/project2/index.md", name = "Project #2"},
 	#{url = "@/projects/index.md", name = "Project #3"} 
-	]},
-	{url = "@/projects/_index.md", name = "Projects"},
+	#]},
+	{url = "@/projects/_index.md", name = "Portfolio"},
 	{url = "@/contact/index.md", name = "Contact"},
 	{url = "@/resume/index.md", name = "Resume"}
 ]
