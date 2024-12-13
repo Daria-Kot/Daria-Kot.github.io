@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://Daria-Kot/Daria-Kot.github.io/</loc>
+        <loc>https://daria-kot.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/contact/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/projects/project1/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/projects/project2/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/resume/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/tags/skill-1/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/tags/skill-2/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/tags/skill-4/</loc>
+    </url>
+    <url>
+        <loc>https://daria-kot.github.io/tags/skill-5/</loc>
     </url>
 </urlset>
