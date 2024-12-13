@@ -17,8 +17,6 @@ author = "Daria Kot"
 theme = "duckquill"
 
 
-ignored_content = ["themes/duckquill/content/blog/the-quill-of-duck/index.ar.md"]
-
 [markdown]
 highlight_code = true
 highlight_theme = "css"
@@ -33,6 +31,8 @@ bottom_footnotes = true
 # index_format = "elasticlunr_json"
 index_format = "fuse_json"
 
+
+ignored_content = ["themes/duckquill/content/blog/the-quill-of-duck/index.ar.md"]
 
 
 
