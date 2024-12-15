@@ -11,8 +11,8 @@ description = "Here you can find a copy of my resume"
 <iframe src="files/resume.pdf" width="100%" height="600px"></iframe> -->
 
 <div class="colored buttons centered">
-<a href="/files/resume.pdf" download class="download-button">Download My Resume</a>
+<a href="/files/dariakot_resume.pdf" download class="download-button">Download My Resume</a>
 </div>
 
-<iframe src="/files/resume.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="/files/dariakot_resume.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
