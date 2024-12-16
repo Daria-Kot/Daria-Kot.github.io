@@ -10,7 +10,7 @@ tags = ["Embedded Software", "PID Controller", "Robotics", "C++", "Microcontroll
 
 This course focused on systems level design and implementation of dynamic autonomous robots. We designed a fast autonomous car and explored dynamic behaviors, acting forces, sensors, and reactive control on an embedded processor, as well as the benefit of partial off-board computation, low latency software, and noise tolerant implementation.
 
-To check out more in depth documentation of developing this car, check out my  <a class="external" href="https://pages.github.coecis.cornell.edu/dak267/dak267.github.io/#contact">Fast Robots Webpage</a>
+To check out more in depth documentation of developing this car, check out my <a class="external" href="https://pages.github.coecis.cornell.edu/dak267/dak267.github.io/#contact">Fast Robots Webpage</a>
 
 ## Highlights from each Lab
 In this course, we designed and built a robot car from the ground up, starting with the microcontroller and electronics. The project involved implementing linear and orientation PID controllers, enabling the robot to accurately localize its position and execute path planning. This end-to-end process required integrating hardware, firmware, and software, providing hands-on experience in robotics and control systems.
