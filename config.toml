@@ -40,6 +40,7 @@ ignored_content = ["themes/duckquill/content/blog/the-quill-of-duck/index.ar.md"
 # Put all your custom variables here
 favicon = "/favicon.png"
 accent_color = "#ff7800"
+# accent_color = "#7b98e0"
 accent_color_dark = "#ffa348"
 fix_contrast_dark = true
 bundled_fonts = true

@@ -16,7 +16,7 @@ Our project explored how urban green spaces affect surface temperatures in New Y
 
 
 - Utilized satellite imagery and datasets (e.g., NYC heat maps and vegetation indices) to quantify green space and temperature metrics.
-- Preprocessed spatial data into image blocks and labels for model training, incorporating geospatial attributes like latitude and longitude.
+- Preprocessed spatial data into image blocks and labels for model training, incorporating geo-spatial attributes like latitude and longitude.
 
 <figcaption> New York City with NDVI mask. Darker green areas correspond to areas with
 more vegetation.</figcaption>
@@ -24,8 +24,8 @@ more vegetation.</figcaption>
 
 
 #### Custom AI Models:
-- Built a convolutional neural network (CNN) from scratch in PyTorch to classify temperature regions.
-- Enhanced the CNN with geospatial features, improving prediction accuracy from 78.1% to 84.2%.
+- Built a convolution neural network (CNN) from scratch in PyTorch to classify temperature regions.
+- Enhanced the CNN with geo-spatial features, improving prediction accuracy from 78.1% to 84.2%.
 - Fine-tuned a pre-trained ResNet model for faster training and higher accuracy using transfer learning techniques.
 <img src="/files/project3 media/cnn.png" alt="" style="display:block;">
 

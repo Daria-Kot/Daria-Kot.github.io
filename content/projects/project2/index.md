@@ -3,7 +3,7 @@ title = "Fast Robots"
 description = "This webpage documents the work I've done in ECE4160: Fast Robots. This course focused on systems level design and implementation of dynamic autonomous robots.  We designed a fast autonomous car and explored dynamic behaviors, acting forces, sensors, and reactive control on an embedded processor, as well as the benefit of partial off-board computation, low latency software, and noise tolerant implementation."
 weight = 2
 [taxonomies]
-tags = ["Embedded Software", "PID Controller", "Robotics", "C++", "Microcontroller"]
+tags = ["Embedded Software", "PID Controller", "Robotics", "C++", "Microcontroller", "Pyhton"]
 +++
 
 
@@ -18,10 +18,10 @@ In this course, we designed and built a robot car from the ground up, starting w
 ### Lab 1: Setting up the Artemis
 #### Lessons Learned:
 - Successfully Installed and Configured Artemis
-- Established a communication link between the Artemis (peripherl) and my computer (client)
+- Established a communication link between the Artemis (peripheral) and my computer (client)
 - Customized UUIDs to prevent conflicts with other devices
-Wrote and ran Python scripts to send nd process commans via BLE.
-- Devloped methods for real-time and batch data collection, enabling comparison of responsiveness versus accuracy in data sampling. 
+Wrote and ran Python scripts to send and process commands via BLE.
+- Developed methods for real-time and batch data collection, enabling comparison of responsiveness versus accuracy in data sampling. 
 
 ### Lab 2: Setting up the IMU
 #### Lessons Learned:
@@ -29,7 +29,7 @@ Wrote and ran Python scripts to send nd process commans via BLE.
 - Calculated pitch and roll using acceleration data
 - Performed frequency spectrum analysis to determine a 10Hz cutoff for low-pass filtering, reducing noise in accelerometer data
 - Derived pitch, roll, and yaw from gyroscope data
-- Applied complementary filter to combine gyroscope and acceleromater data to acheive stability and accuracy in data
+- Applied complementary filter to combine gyroscope and accelerometer data to achieve stability and accuracy in data
 - Designed a loop to collect and process IMU data efficiently
 <img src="/files/project2 media/unfiltered pitch.png" alt="Alt text" style="display:block;">
 <figcaption>Unfiltered gyroscope pitch data</figcaption>
@@ -43,7 +43,7 @@ Wrote and ran Python scripts to send nd process commans via BLE.
 - Improved understanding of the trade-offs between sensor range, accuracy, and performance under real-world constraints.
 - Developed a robust framework for processing and transmitting data from multiple sensors in real-time.
 <img src="/files/project2 media/comparingrangingtimes.png" alt="Alt text" style="display:block;">
-<figcaption>To check which ranging time worked best for my application I kept the sensor statinary relative to a wall and changed the ranging times to see which interval worked best for my application.</figcaption>
+<figcaption>To check which ranging time worked best for my application I kept the sensor stationary relative to a wall and changed the ranging times to see which interval worked best for my application.</figcaption>
 <img src="/files/project2 media/measured vs Actual.png" alt="Alt text" style="display:block;">
 <figcaption>The measure the repeatability of the sensor I took the average of 1000 readings 5 times at each 10 in distance interval.</figcaption>
 
@@ -126,7 +126,7 @@ To implement a Bayes Filter for grid localization, enabling the robot to estimat
 Navigate the robot through a set of waypoints in the map as quickly and accurately as possible using previous lab implementations of localization and orientation control.
 
 {{ youtube(id="jDAT1IzhXlI") }}
- <figcaption>Shows the robot navigating through waypoints and semi-successfully localizing and moving throught the map.</figcaption>
+ <figcaption>Shows the robot navigating through waypoints and semi-successfully localizing and moving through the map.</figcaption>
 
 
 
