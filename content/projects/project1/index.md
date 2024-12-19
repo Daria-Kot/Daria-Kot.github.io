@@ -56,8 +56,6 @@ Stabilizing a camera in a rocket traveling at high speeds is no small feat! I in
 
 The culmination of these efforts led to 2nd place out of 160 teams at the 2022-2023 Spaceport America Cup, including a 1st place finish in the 10k Student Research and Development Category. These achievements reflect the incredible teamwork and innovation within Cornell Rocketry.
 <br>
+ <iframe width="450" height="315" src="https://www.youtube.com/embed/q2iiDZBiHh4?si=QM6oFCRb_KnU8NPQ"></iframe>
 
-<video width="640" height="360" controls>
-  <source src="/files/project1 media/launch.mp4" type="video/mp4">
-</video>
 <figcaption>Our 2024 Launch!</figcaption>
