@@ -5,7 +5,9 @@ weight = 1
 [taxonomies]
 tags = ["Teamwork", "Leadership", "Microcontroller", "Sensors", "C++", "Embedded Software", "PID" ]
 +++
+
 <img src="/files/project1 media/team.jpg#start" alt="Cornell Rocketry Team Picture" style="display:block;">
+
 
 ## Current Role
 As the Recovery and Payload Sub-team Lead, I’m guiding a dynamic group of engineers in designing, manufacturing, and testing cutting-edge systems for our high-powered rocket. These include an autonomous recovery system and an air-sampling payload that leverages onboard microfluidics to analyze dust particulates collected during flight. This rocket will compete in the annual Spaceport America Cup, the largest intercollegiate rocketry competition in the world.
@@ -59,3 +61,6 @@ The culmination of these efforts led to 2nd place out of 160 teams at the 2022-2
  <iframe width="450" height="315" src="https://www.youtube.com/embed/q2iiDZBiHh4?si=QM6oFCRb_KnU8NPQ"></iframe>
 
 <figcaption>Our 2024 Launch!</figcaption>
+
+<img src="/files/project1 media/crt.png" width = "100" alt="blims mechanism" hover = false>
+To learn more about the team check out the <a class="external" href="https://cornellrocketryteam.com/">Cornell Rocketry Website</a>

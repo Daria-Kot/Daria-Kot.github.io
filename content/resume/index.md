@@ -1,5 +1,5 @@
 +++
-title = "My Resume"
+title = "Resume"
 description = "Here you can find a copy of my resume"
 [extra] 
 +++
