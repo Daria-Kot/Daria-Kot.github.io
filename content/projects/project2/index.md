@@ -42,9 +42,9 @@ Wrote and ran Python scripts to send and process commands via BLE.
 - Advanced skills in I2C communication, including dynamic address assignment and multi-sensor integration.
 - Improved understanding of the trade-offs between sensor range, accuracy, and performance under real-world constraints.
 - Developed a robust framework for processing and transmitting data from multiple sensors in real-time.
-<img src="/files/project2 media/comparingrangingtimes.png" alt="Alt text" style="display:block;">
+<img src="/files/project2 media/Comparingrangingtimes.png" alt="Alt text" style="display:block;">
 <figcaption>To check which ranging time worked best for my application I kept the sensor stationary relative to a wall and changed the ranging times to see which interval worked best for my application.</figcaption>
-<img src="/files/project2 media/measured vs Actual.png" alt="Alt text" style="display:block;">
+<img src="/files/project2 media/Measured vs Actual.png" alt="Alt text" style="display:block;">
 <figcaption>The measure the repeatability of the sensor I took the average of 1000 readings 5 times at each 10 in distance interval.</figcaption>
 
 ### Lab 4: Motors and Open Loop Control
