@@ -4,7 +4,7 @@ path = "contact"
 [extra] 
 +++
 
-# Contact Me
+<!-- # Contact Me -->
 
 <img src="/files/mailbox.png#full-bleed" alt="Alt text" full_bleed = true style="display:block;">
 
