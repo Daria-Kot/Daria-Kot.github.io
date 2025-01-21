@@ -69,7 +69,6 @@ links = [
 	{url = "@/resume/index.md", name = "Resume"}
 ]
 
-
 [extra.footer]
 
 
