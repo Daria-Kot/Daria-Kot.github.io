@@ -22,6 +22,10 @@ As the Recovery and Payload Sub-team Lead, I’m guiding a dynamic group of engi
 - Managing project timelines, defining system requirements, and coordinating testing schedules to ensure successful execution of Recovery and Payload objectives.
 
 <img src="/files/project1 media/rocket_walk.jpeg" alt="Recovery and Payload Transporting L3 test rocket to the launch rail!" style="display:block;"><figcaption>Recovery and Payload Transporting L3 test rocket to the launch rail!</figcaption>
+ <iframe width="450" height="315" src="https://youtube.com/embed/GG0ToaxeWt8?si=5CY9d3gJcWwA3bq8"></iframe>
+  <iframe width="450" height="315" src="https://youtube.com/embed/nqCbgadi1_c?feature=share"></iframe>
+  <img src="/files/project1 media/Rocket Trajectory.png" alt="Bird's eye view of Rocket's Trajectory" style="display:block;"><figcaption>Bird's eye view of Rocket's Trajectory</figcaption>
+
 
 ## Break Line Manipulation System (BLiMs)
 BLiMs is an intelligent recovery system designed to steer parachute break lines and guide the rocket’s descent. As a key developer, I worked on:
